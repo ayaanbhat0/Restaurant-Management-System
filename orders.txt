@@ -1,0 +1,10 @@
+Pasta,12.99
+Pizza,10.99
+Burger,8.99
+Sandwich,6.50
+Salad,5.99
+Steak,15.99
+Soup,4.50
+Risotto,13.99
+Chicken,9.99
+Fries,2.99

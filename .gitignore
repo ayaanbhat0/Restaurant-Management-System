@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+customers.txt
+admin_profile.txt
+chef_profile.txt
+manager_profile.txt

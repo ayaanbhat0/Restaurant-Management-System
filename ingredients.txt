@@ -1,0 +1,10 @@
+alice,Great food and service!
+bob,The pizza was delicious but a bit slow.
+charlie,Loved the burger. Will come back!
+dave,Sandwich was okay, could use more filling.
+eve,Salad was fresh and crispy. Good job!
+frank,Steak was cooked perfectly. Thanks!
+grace,The soup was very comforting and tasty.
+heidi,Risotto was creamy and delicious.
+ivan,Chicken was juicy, will order again.
+judy,Fries were a bit salty, but overall good.
